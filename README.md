@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Mphasis.<br>I'm looking for collaboration with AWS or Cloud Projects.<br>Ask me about Java and Cloud related.<br>Currently learning AWS.<br>Ping me on Email : balajikalimuthu482@gmail.com<br><br>
+I'm currently working on Mphasis.<br>I'm looking for collaboration with AWS or Cloud Projects.<br>Ask me about Java and Cloud related.<br>AWS certified developer associate<br>Ping me on Email : balajikalimuthu482@gmail.com<br><br>
 
 
 ## 🌐 Socials:
